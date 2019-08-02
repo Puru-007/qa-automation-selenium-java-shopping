@@ -29,4 +29,6 @@ The test is doing following things:
 # Development Environment:
 - Modify src/test/resources/test.properties to point to ChromeDriver's path on your system
 - On any terminal, move to the project's root folder and execute the following command:
-    - ./gradlew clean test
+```
+./gradlew clean test
+```
