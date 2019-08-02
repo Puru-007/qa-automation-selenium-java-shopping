@@ -1,4 +1,4 @@
-package com.crossover.pages;
+package com.gmail.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

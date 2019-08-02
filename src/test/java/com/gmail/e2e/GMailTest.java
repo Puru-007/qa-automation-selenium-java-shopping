@@ -1,11 +1,11 @@
-package com.crossover.e2e;
+package com.gmail.e2e;
 
 import java.io.File;
 import java.io.FileReader;
 import java.util.Properties;
 
-import com.crossover.pages.GmailPage;
-import com.crossover.pages.LoginPage;
+import com.gmail.pages.GmailPage;
+import com.gmail.pages.LoginPage;
 import junit.framework.TestCase;
 import org.junit.Test;
 import org.openqa.selenium.*;
