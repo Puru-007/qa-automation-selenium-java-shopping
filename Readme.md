@@ -1,4 +1,4 @@
-# Project Assessment:
+# Introduction
 The provided repository contains a sample complete automated test using selenium webdriver for email sending functionality via Gmail.
 
 The test is doing following things:
