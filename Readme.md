@@ -20,7 +20,7 @@ The test is doing following things:
     -Go to Settings of your Gmail account
     -Click on the "Labels" tab and click on "Show" for "Social" label under Categories
     -Click on "Inbox" tab and mark the checkbox for "Social" and "Primary" under Categories so that "Social" and "Primary" tabs appear on the main page of your Gmail account
-- DO NOT change the project structure and use Gradle only
+
 
 # Prerequisites:
 - ChromeDriver 2.44 , JDK 8+
